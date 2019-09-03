@@ -1,0 +1,118 @@
+﻿FLAG_final,GWAS.trait.representative,Trait category,Trait - brain,Trait - Metabolic,Trait - immune,Trait full name,Trait abbreviation,Trait identifier,Author,Year,DOI/PMID,GWAS violates LDSC assumptions,Ancestry,Custom array in cohort,"munge_sumstats.py ""--N"" argument                                                                                                                                                                                                                                      ",N,Neff,Population prevalence,Sample prevalence,Study notes,Input filename,Pre-processed sumstats file source,Download URL,"h2g 
+Z-score",h2g (observed scale),Loh2018 UKBB GWAS,UKBB Column Codes,Additional information on coding
+FALSE,FALSE,Neurological,TRUE,,,Alzheimer's Disease,AD,AD_Lambert2013,Lambert,2013,,,EUR,NO,TRUE,"54,162",,,,"17,008 Alzheimer's disease cases and 37,154 controls",IGAP_stage_1.txt,,,,,,,
+TRUE,TRUE,Neurological,TRUE,,,Alzheimer's Disease,AD,AD_Jansen2019,Jansen,2019,,,EUR,NO,,"455,258",,,,"71,880 cases; 383,378 controls. N total = 455258",AD_sumstats_Jansenetal.txt.gz,,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Attention Deficit Hyperactivity Disorder,ADHD,ADHD_PGC_Demontis2017,Demontis,2017,,,EUR,NO,TRUE,"53,293",,,,"European ancestry meta-analysis (19,099 cases, 34,194 controls)",adhd_eur_jun2017.gz,,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Anorexia Nervosa ,AN,AN_PGC_Duncan2017,Duncan,2017,,,EUR,NO,TRUE,"14,477",,,,,pgc.ed.freeze1.summarystatistics.July2017.txt.gz,,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Autism Spectrum Disorder,ASD,ASD_iPSYCH_PGC_Grove2018,Grove,2018,,,EUR,NO,TRUE,"46,350",,,,,iPSYCH-PGC_ASD_Nov2017.txt.gz,,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Bipolar Disorder,BIP,BIP_PGC2018,PGC,2018,,,EUR,NO,TRUE,"41,653",,,,,BDvsCONT.sumstats.gz,,,,,,,
+FALSE,FALSE,Anthropometric,TRUE,TRUE,,BMI (female),BMI_F,BMI_female_Pulit2019,Pulit,2019,,TRUE,EUR,Metabochip,,"374,756",,,,,bmi.giant-ukbb.meta-analysis.females.23May2018.rs_snps_clean.txt.gz,,,,,,,
+TRUE,FALSE,Anthropometric,TRUE,TRUE,,BMI,BMI,BMI_Locke2015,Locke,2015,,TRUE,EUR,Metabochip,,"322,154",,,,,EUR_ancestries_SNP_gwas_mc_merge_nogc.tbl.uniq.gz,,https://portals.broadinstitute.org/collaboration/giant/images/1/15/SNP_gwas_mc_merge_nogc.tbl.uniq.gz,,,,,
+FALSE,FALSE,Anthropometric,TRUE,TRUE,,BMI (male),BMI_M,BMI_male_Pulit2019,Pulit,2019,,TRUE,EUR,Metabochip,,"434,794",,,,,bmi.giant-ukbb.meta-analysis.males.23May2018.rs_snps_clean.txt.gz,,,,,,,
+FALSE,FALSE,Anthropometric,TRUE,TRUE,,BMI,BMI,BMI_Pulit2019,Pulit,2019,,TRUE,EUR,Metabochip,,"806,834",,,,,bmi.giant-ukbb.meta-analysis.combined.23May2018.rs_snps_clean.txt.gz,,,,,,,
+TRUE,TRUE,Anthropometric,TRUE,TRUE,,BMI,BMI,BMI_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"457,824","532,396",,,"Nmax= 457,824",body_BMIz.sumstats.gz,,https://data.broadinstitute.org/alkesgroup/UKBB/body_BMIz.sumstats.gz,,,TRUE,,
+TRUE,FALSE,Anthropometric,TRUE,TRUE,,BMI,BMI,BMI_UPDATE_Yengo2018,Yengo,2018,,TRUE,EUR,Metabochip,,"681,275",,,,,Meta-analysis_Locke_et_al+UKBiobank_2018_UPDATED.txt.gz,,https://portals.broadinstitute.org/collaboration/giant/images/c/c8/Meta-analysis_Locke_et_al%2BUKBiobank_2018_UPDATED.txt.gz,,,,,
+TRUE,TRUE,Cardiovascular,,,,Coronary Artery Disease,CAD,CAD_Schunkert2011,Schunkert,2011,,,EUR,NO,,"86,995",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Cardiovascular,,,,Cardiovascular Diseases,CV,CARDIOVASCULAR_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"459,324","477,807",,,,disease_CARDIOVASCULAR.sumstats.gz,,,,,TRUE,20002-0.0~20002-0.28,1065 (hypertension); 1066 (heart/cardiac problem); 1067 (peripheral vascular disease); 1068 (venous thromboembolic disease); 1081 (stroke); 1082 (transient ischaemic attack (tia)); 1083 (subdural haemorrhage/haematoma); 1425 (cerebral aneurysm); 1473 (high cholesterol); 1493 (other venous/lymphatic disease)
+TRUE,TRUE,Immune,,,TRUE,Celiac Disease,CELIAC,CELIAC_Dubois2010,Dubois,2010,,,EUR,NO,,"15,283",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Crohn's Disease,CROHNS,CROHNS_Jostins2012,Jostins,2012,,,EUR,NO,,"20,883",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,FALSE,Behavioral,TRUE,,,Depressed Affect,DEP_AFFECT,DEPRESSED_AFFECT_Nagel2018,Nagel,2018,,,EUR,NO,,"357,957",,,,,sumstats_depressed_affect_ctg_format.txt.gz,,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Depression,DEP,DEPRESSION_Nagel2018,Nagel,2018,,,EUR,NO,,"381,455",,,,,sumstats_depression_ctg_format.txt.gz,,,,,,,
+TRUE,TRUE,Cardiovascular,,TRUE,,Diastolic Blood Pressure (adj. medicine),BP_DIA,DIASTOLICadjMED_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"422,771","490,470",,,,bp_DIASTOLICadjMEDz.sumstats.gz,,,,,TRUE,4079-0.0~4079-0.1,-
+TRUE,FALSE,Behavioral,TRUE,,,Depressive Symptoms,DS,DS_Okbay2016,Okbay,2016,,,EUR,NO,TRUE,"161,460",,,,,DS_Full.txt.gz,,,,,,,
+TRUE,FALSE,Behavioral,TRUE,,,Educational Attainment,EA2,EA2_Okbay2016,Okbay,2016,,,EUR,NO,TRUE,"217,568",,,,,EduYears_Main.txt.gz,,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Educational Attainment,EA3,EA3_Lee2018,Lee,2018,,,EUR,NO,TRUE,"766,345",,,,,GWAS_EduYears_excl23andMe.txt.gz,,,,,,,
+TRUE,TRUE,Metabolic,,TRUE,,Fasting Glucose (female),FG_F,FG_Female_Lagou2018,Lagou,2018,,TRUE,EUR and non-EUR,Metabochip,TRUE,"73,089",,,,,FG_STAGE1_2_3_SEX_GWAS_2018.txt.gz,,,,,,,
+FALSE,FALSE,Metabolic,,TRUE,,Fasting Glucose (male),FG_M,FG_Male_Lagou2018,Lagou,2018,,TRUE,EUR and non-EUR,Metabochip,TRUE,"67,506",,,,,FG_STAGE1_2_3_SEX_GWAS_2018.txt.gz,,,,,,,
+TRUE,TRUE,Metabolic,,TRUE,,Fasting Insulin (female),FI_F,FI_Female_Lagou2018,Lagou,2018,,TRUE,EUR and non-EUR,Metabochip,TRUE,"50,404",,,,,FI_STAGE1_2_3_SEX_GWAS_2018.txt.gz,,,,,,,
+FALSE,FALSE,Metabolic,,TRUE,,Fasting Insulin (male),FI_M,FI_Male_Lagou2018,Lagou,2018,,TRUE,EUR and non-EUR,Metabochip,TRUE,"47,806",,,,,FI_STAGE1_2_3_SEX_GWAS_2018.txt.gz,,,,,,,
+TRUE,TRUE,Metabolic,,TRUE,,HbA1c,HBA1C,HBA1C_MAGIC_Wheeler2017,Wheeler,2017,,TRUE,EUR,Metabochip,TRUE,"123,665",,,,,HbA1c_METAL_European.txt.gz,,,,,,,
+TRUE,TRUE,Anthropometric,,,,Height,HEIGHT,HEIGHT_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"458,303","673,879",,,,body_HEIGHTz.sumstats.gz,,,,,TRUE,,
+FALSE,FALSE,Anthropometric,,,,Height,HEIGHT,HEIGHT_Wood2014,Wood,2014,,,EUR,NO,,"253,288",,,,,GIANT_HEIGHT_Wood_et_al_2014_publicrelease_HapMapCeuFreq.txt.gz,,,,,,,
+TRUE,FALSE,Anthropometric,,,,Height,HEIGHT,HEIGHT_Yengo2018,Yengo,2018,,,EUR,NO,,"693,529",,,,,Meta-analysis_Wood_et_al+UKBiobank_2018.txt.gz,,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Inflammatory Bowel Disease,IBD,IBD_Jostins2012,Jostins,2012,,,EUR,NO,,"34,652",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Insomnia,INS,INSOMNIA_Jansen2018,Jansen,2018,,,EUR,NO,TRUE,"386,533",,0.2,0.28,,Insomnia_sumstats_Jansenetal.txt.gz,,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Intelligence,INT,INTELLIGENCE_Savage2018,Savage,2018,,,EUR,NO,,"269,867",,,,,SavageJansen_2018_intelligence_metaanalysis.txt.gz,,,,,,,
+TRUE,FALSE,Behavioral,TRUE,,,Intelligence,INT,INTELLIGENCE_Sniekers2017,Sniekers,2017,,,EUR,NO,TRUE,"78,308",,,,"Intelligence based on 78,308 individuals in 13 cohorts",sumstats.txt.gz,,,,,,,
+TRUE,TRUE,Lipids,,,,High Density Lipoprotein,HDL,LIPIDS_HDL_Teslovich2010,Teslovich,2010,,,EUR,NO,,"99,900",,,,,HDL_ONE_Europeans.tbl.gz,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+FALSE,FALSE,Lipids,,,,High Density Lipoprotein,HDL,LIPIDS_HDL_Willer2013,Willer,2013,,TRUE,EUR,Metabochip,,"188,577",,,,,jointGwasMc_HDL.txt.gz,,,,,,,
+TRUE,TRUE,Lipids,,,,Low Density Lipoprotein,LDL,LIPIDS_LDL_Teslovich2010,Teslovich,2010,,,EUR,NO,,"95,454",,,,,LDL_ONE_Europeans.tbl.gz,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+FALSE,FALSE,Lipids,,,,Low Density Lipoprotein,LDL,LIPIDS_LDL_Willer2013,Willer,2013,,TRUE,EUR,Metabochip,,"188,577",,,,,jointGwasMc_LDL.txt.gz,,,,,,,
+FALSE,FALSE,Lipids,,,,Total Cholesterol,TC,LIPIDS_TC_Willer2013,Willer,2013,,TRUE,EUR,Metabochip,,"188,577",,,,,jointGwasMc_TC.txt.gz,,,,,,,
+TRUE,TRUE,Lipids,,,,Triglycerides,TG,LIPIDS_TG_Teslovich2010,Teslovich,2010,,,EUR,NO,,"96,598",,,,,TG_ONE_Europeans.tbl.gz,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+FALSE,FALSE,Lipids,,,,Triglycerides,TG,LIPIDS_TG_Willer2013,Willer,2013,,TRUE,EUR,Metabochip,,"188,577",,,,,jointGwasMc_TG.txt.gz,,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Systemic Lupus Erythematosus,LUPUS,LUPUS_Bentham2015,Bentham,2015,,,EUR,NO,,"14,267",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Major Depression Disorder,MDD,MDD_Howard2019,Howard,2019,,,EUR,NO,TRUE,"500,199",,,,"500,199 (170,756 cases and 329,443 controls). Meta-analysis of the 33 cohorts of the Psychiatric Genomics Consortium (excluding UK Biobank and 23andMe data) as described in Wray et al. (2018), https://doi.org/10.1038/s41588-018-0090-3 and the broad depression phenotype in the full release of the UK Biobank as described in Howard et al. (2018), https://doi.org/10.1038/s41467-018-03819-3.
+The total number of individuals in this data is 500,199 (170,756 cases and 329,443 controls) with 8,483,301 variants analysed.",PGC_UKB_depression_genome-wide.txt.gz,Shared via email correspondance with David Horward <d.howard@ed.ac.uk>,,,,,,
+TRUE,FALSE,Neuropsychiatric,TRUE,,,Major Depression Disorder,MDD,MDD_PGC_Wray2018,Wray,2018,,,EUR,NO,TRUE,"153,780",,,,,MDD2018_ex23andMe.gz,,,,,,,
+TRUE,TRUE,Neurological,TRUE,,TRUE,Multiple Sclerosis,MS,MS_Patsopoulos2011,Patsopoulos,2011,,,EUR,NO,,"17,698",,0.001,0.31,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Neuroticism,NEU,NEUROTICISM_Nagel2018,Nagel,2018,,,EUR,NO,,"390,278",,,,,sumstats_neuroticism_ctg_format.txt.gz,,,,,,,
+TRUE,FALSE,Behavioral,TRUE,,,Neuroticism,NEU,NEUROTICISM_Okbay2016,Okbay,2016,,,EUR,NO,TRUE,"170,911",,,,,Neuroticism_Full.txt.gz,,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Primary Biliary Cirrhosis,PBC,PBC_Cordell2015,Cordell,2015,,,EUR,NO,,"13,239",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Rheumatoid Arthritis,RA,RA_Okada2014,Okada,2014,,,EUR,NO,TRUE,"38,242",,0.01,0.29,,RA_GWASmeta_European_v2.txt.gz,,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Risk Tolerance,RB,RB_Linner_2019,Linner,2019,,,EUR,NO,TRUE,"466,571",,,,,RISK_GWAS_MA_UKB+replication.txt.gz,,,,,,,
+TRUE,FALSE,Neuropsychiatric,TRUE,,,Schizophrenia,SCZ,SCZ_EUR_Ripke2014,Ripke,2014,,,EUR,NO,TRUE,"77,096",,,,,daner_PGC_SCZ49.sh2_mds10_1000G-frq_2.OR-FILTER.gz,,,,,,,
+TRUE,TRUE,Neuropsychiatric,TRUE,,,Schizophrenia,SCZ,SCZ_Pardinas2018,Pardinas,2018,,,EUR,NO,TRUE,"105,318",,0.01,0.39,,clozuk_pgc2.meta.sumstats.rs_snps_only.txt.gz,,,,,,,
+TRUE,TRUE,Behavioral,TRUE,,,Subjective Well Being,SWB,SWB_Okbay2016,Okbay,2016,,,EUR,NO,TRUE,"298,420",,,,,SWB_Full.txt.gz,,,,,,,
+TRUE,TRUE,Cardiovascular,,TRUE,,Systolic Blood Pressure (adj. medicine),BP_SYS,SYSTOLICadjMED_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"422,771","469,767",,,,bp_SYSTOLICadjMEDz.sumstats.gz,,,,,TRUE,4080-0.0~4080-0.1,-
+TRUE,TRUE,Metabolic,,TRUE,TRUE,Type 1 Diabetes,T1D,T1D_Bradfield2011,Bradfield,2011,,,EUR,NO,,"26,890",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,FALSE,Metabolic,,TRUE,,Type 2 Diabetes,T2D,T2D_DIAMANTE_Mahajan2018,Mahajan,2018,,TRUE,EUR,Metabochip,,"898,130","""--N-col Neff"" used LDSC munge",,,"62,892 T2D cases and 596,424 controls",Mahajan.NatGenet2018b.T2D.European.w_snpsnap_rsid.txt.gz,,,,,,,
+FALSE,FALSE,Metabolic,,TRUE,,Type 2 Diabetes,T2D,T2D_UKBB_DIAMANTE_Mahajan2018,Mahajan,2018,,,EUR,NO,,"442,817","""--N-col Neff"" used LDSC munge",,,"898,130 individuals (74,124 T2D cases and 824,006 controls) of European ancestry",Mahajan.NatGenet2018b.UKBB.HRC.T2D.European.w_snpsnap_rsid.txt.gz,,,,,,,
+TRUE,TRUE,Metabolic,,TRUE,,Type 2 Diabetes,T2D,T2D_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"459,324","468,298",,,,disease_T2D.sumstats.gz,,,,,TRUE,,
+FALSE,FALSE,Metabolic,,TRUE,,Type 2 Diabetes,T2D,T2D_Xue2018,Xue,2018,,TRUE,EUR,UNKNOWN,,"659,316",,,,,Xue_et_al_T2D_META_Nat_Commun_2018.gz,,,,,,,
+FALSE,FALSE,Metabolic,,TRUE,,Type 2 Diabetes (adj. BMI),T2DadjBMI,T2DadjBMI_DIAMANTE_Mahajan2018,Mahajan,2018,,,EUR,Metabochip,,"898,130","""--N-col Neff"" used LDSC munge",,,"We used UK Biobank samples (19,119 T2D cases and 423,698 controls)…",Mahajan.NatGenet2018b.T2Dbmiadj.European.w_snpsnap_rsid.txt.gz,,,,,,,
+TRUE,TRUE,Immune,,,TRUE,Ulcerative Colitis,UC,UC_Jostins2012,Jostins,2012,,,EUR,NO,,"27,432",,,,,,https://data.broadinstitute.org/alkesgroup/sumstats_formatted/,,,,,,
+TRUE,TRUE,Anthropometric,,TRUE,,Waist-hip Ratio,WHR,WHR_Pulit2019,Pulit,2019,,TRUE,EUR,Metabochip,,"697,734",,,,,whr.giant-ukbb.meta-analysis.combined.23May2018.rs_snps_clean.txt.gz,,,,,,,
+FALSE,FALSE,Anthropometric,,TRUE,,Waist-hip Ratio,WHR,WHR_Shungin2015,Shungin,2015,,TRUE,EUR,Metabochip,,"142,762",,,,,GIANT_2015_WHR_COMBINED_EUR.txt.gz,,,,,,,
+TRUE,FALSE,Anthropometric,,TRUE,,Waist-hip Ratio (adj. BMI),WHRadjBMI,WHRadjBMI_Pulit2019,Pulit,2019,,TRUE,EUR,Metabochip,,"694,649",,,,,whradjbmi.giant-ukbb.meta-analysis.combined.23May2018.rs_snps_clean.txt.gz,,,,,,,
+FALSE,FALSE,Anthropometric,,TRUE,,Waist-hip Ratio (adj. BMI),WHRadjBMI,WHRadjBMI_Shungin2015,Shungin,2015,,TRUE,EUR,Metabochip,,"142,762",,,,,,,,,,,,
+TRUE,TRUE,Anthropometric,,TRUE,,Waist-hip Ratio (adj. BMI),WHRadjBMI,WHRadjBMI_UKBB_Loh2018,Loh,2018,,,EUR,NO,TRUE,"458,417","502,773",,,,body_WHRadjBMIz.sumstats.gz,,,,,TRUE,,
+TRUE,TRUE,Behavioral,TRUE,,,Worry,WORRY,WORRY_Nagel2018,Nagel,2018,,,EUR,NO,,"348,219",,,,,sumstats_worry_ctg_format.txt.gz,,,,,,,
+FALSE,FALSE,blood,,,,Eosinophil Count,,blood_EOSINOPHIL_COUNT,Loh,2018,,,EUR,NO,,"439,938","513,860",,,,,,,,,TRUE,30150-0.0,-
+FALSE,FALSE,blood,,,,High Light Scatter Reticulocyte Count,,blood_HIGH_LIGHT_SCATTER_RETICULOCYTE_COUNT,Loh,2018,,,EUR,NO,,"437,490","520,011",,,,,,,,,TRUE,30300-0.0,-
+FALSE,FALSE,blood,,,,Lymphocyte Count,,blood_LYMPHOCYTE_COUNT,Loh,2018,,,EUR,NO,,"443,940","509,278",,,,,,,,,TRUE,30120-0.0,-
+FALSE,FALSE,blood,,,,Mean Corpular Hemoglobin,,blood_MEAN_CORPUSCULAR_HEMOGLOBIN,Loh,2018,,,EUR,NO,,"443,686","572,864",,,,,,,,,TRUE,30050-0.0,-
+FALSE,FALSE,blood,,,,Mean Platelet Volume,,blood_MEAN_PLATELET_VOL,Loh,2018,,,EUR,NO,,"445,163","694,867",,,,,,,,,TRUE,30100-0.0,-
+FALSE,FALSE,blood,,,,Mean Sphered Cell Volume,,blood_MEAN_SPHERED_CELL_VOL,Loh,2018,,,EUR,NO,,"437,542","535,538",,,,,,,,,TRUE,30270-0.0,-
+FALSE,FALSE,blood,,,,Monocyte Count,,blood_MONOCYTE_COUNT,Loh,2018,,,EUR,NO,,"442,620","545,193",,,,,,,,,TRUE,30130-0.0,-
+FALSE,FALSE,blood,,,,Platelet Count,,blood_PLATELET_COUNT,Loh,2018,,,EUR,NO,,"444,382","600,969",,,,,,,,,TRUE,30080-0.0,-
+FALSE,FALSE,blood,,,,Platelet Distribution Width,,blood_PLATELET_DISTRIB_WIDTH,Loh,2018,,,EUR,NO,,"444,656","572,202",,,,,,,,,TRUE,30110-0.0,-
+FALSE,FALSE,blood,,,,Red Blood Cell Distribution Width,,blood_RBC_DISTRIB_WIDTH,Loh,2018,,,EUR,NO,,"442,700","514,929",,,,,,,,,TRUE,30070-0.0,-
+FALSE,FALSE,blood,,,,Red Blood Cell Count,,blood_RED_COUNT,Loh,2018,,,EUR,NO,,"445,174","526,541",,,,,,,,,TRUE,30010-0.0,-
+FALSE,FALSE,blood,,,,White Blood Cell Count,,blood_WHITE_COUNT,Loh,2018,,,EUR,NO,,"444,502","503,190",,,,,,,,,TRUE,30000-0.0,-
+FALSE,FALSE,Anthropometric,,,,Heel T Score,,bmd_HEEL_TSCOREz,Loh,2018,,,EUR,NO,,"445,921","583,315",,,,,,,,,TRUE,4106-0.0+4125-0.0,-
+FALSE,FALSE,dermatologic,,,,Balding Type I,,body_BALDING1,Loh,2018,,,EUR,NO,,"208,336","247,332",,,,,,,,,TRUE,2395-0.0,balding pattern 1 vs. other
+FALSE,FALSE,dermatologic,,,,Balding Type IV,,body_BALDING4,Loh,2018,,,EUR,NO,,"208,336","245,798",,,,,,,,,TRUE,2395-0.0,balding pattern 4 vs. other
+FALSE,FALSE,Behavioral,TRUE,,,College Education,,cov_EDU_COLLEGE,Loh,2018,,,EUR,NO,,"454,813","470,942",,,,,,,,,TRUE,6138-0.0~6138-0.5,College or University degree
+FALSE,FALSE,Behavioral,TRUE,,,Years of Education,,cov_EDU_YEARS,Loh,2018,,,EUR,NO,,"454,813","461,458",,,,,,,,,TRUE,6138-0.0~6138-0.5,"College or University degree = 20 years; A levels/AS levels or equivalent = 13 years; O levels/GCSEs or equivalent = 10 years; CSEs or equivalent = 10 years; NVQ or HND or HNC or equivalent = 19 years; Other professional qualifications eg: nursing, teaching = 15 years; None of the above = 7 years; Prefer not to answer = NA 
+(Phenotype construction based on Okbay et al. 2016 Nature, Tables S1.2 and S1.14)"
+FALSE,FALSE,Behavioral,TRUE,,,Smoking Status,,cov_SMOKING_STATUS,Loh,2018,,,EUR,NO,,"457,683","468,171",,,,,,,,,TRUE,20116-0.0,1=Previous; 2=Current
+FALSE,FALSE,immune,,,TRUE,Auto Immune Traits,,disease_AID_ALL,Loh,2018,,,EUR,NO,,"459,324","469,185",,,,,,,,,TRUE,20002-0.0~20002-0.28,1154 (ibs); 1222 (t1d); 1224 (thyroid problem); 1225 (hyperthyroidism/thyrotoxicosis); 1226 (hypothyroidism/myxoedema); 1256 (guillainBarre); 1260 (myasthenia); 1261 (ms); 1313 (as); 1372 (vasculitis); 1377 (polymyalgia); 1378 (wegeners); 1381 (sle); 1382 (sjogren); 1384 (sysSclerosis); 1437 (myasthenia); 1453 (psoriasis); 1456 (celiac); 1461 (ibd); 1462 (crohn); 1463 (uc); 1464 (ra); 1477 (psorArthritis); 1522 (grave); 1661 (vitiligo); 1667 (alopecia)
+FALSE,FALSE,immune,,,TRUE,Auto Immune Traits (Sure),,disease_AID_SURE,Loh,2018,,,EUR,NO,,"459,324","419,607",,,,,,,,,TRUE,20002-0.0~20002-0.28,1222 (t1d); 1256 (guillainBarre); 1260 (myasthenia); 1261 (ms); 1372 (vasculitis); 1378 (wegeners); 1381 (sle); 1382 (sjogren); 1384 (sysSclerosis); 1437 (myasthenia); 1456 (celiac); 1464 (ra); 1522 (grave); 1661 (vitiligo)
+FALSE,FALSE,immune,,,TRUE,Eczema,,disease_ALLERGY_ECZEMA_DIAGNOSED,Loh,2018,,,EUR,NO,,"458,699","461,200",,,,,,,,,TRUE,6152-0.0~6152-0.4,"Hayfever, allergic rhinitis or eczema diagnosed by doctor"
+FALSE,FALSE,immune,,,TRUE,Asthma,,disease_ASTHMA_DIAGNOSED,Loh,2018,,,EUR,NO,,"458,699","445,866",,,,,,,,,TRUE,6152-0.0~6152-0.4,Asthma diagnosed by doctor
+FALSE,FALSE,dermatologic,,,,Dermatologic Diseases,,disease_DERMATOLOGY,Loh,2018,,,EUR,NO,,"459,324","459,279",,,,,,,,,TRUE,20002-0.0~20002-0.28,1452 (eczema/dermatitis); 1453 (psoriasis); 1454 (blistering/desquamating skin disorder); 1455 (chronic skin ulcers); 1548 (acne/acne vulgaris); 1549 (lichen planus); 1550 (lichen sclerosis); 1625 (cellulitis); 1660 (rosacea); 1661 (vitiligo); 1667 (alopecia / hair loss); 1680 (bowen's disease)
+FALSE,FALSE,Lipids,,TRUE,,High Cholesterol,,disease_HI_CHOL_SELF_REP,Loh,2018,,,EUR,NO,,"459,324","464,736",,,,,,,,,TRUE,20002-0.0~20002-0.28,1473
+FALSE,FALSE,Metabolic,,,,Hypothyroidism,,disease_HYPOTHYROIDISM_SELF_REP,Loh,2018,,,EUR,NO,,"459,324","473,703",,,,,,,,,TRUE,20002-0.0~20002-0.28,1226
+FALSE,FALSE,respiratory,,,,Respiratory and Ear-nose-throat Diseases,,disease_RESPIRATORY_ENT,Loh,2018,,,EUR,NO,,"459,324","452,193",,,,,,,,,TRUE,20002-0.0~20002-0.28,1111 (asthma); 1112 (chronic obstructive airways disease/copd); 1113 (emphysema/chronic bronchitis); 1114 (bronchiectasis); 1115 (interstitial lung disease); 1117 (other respiratory problems); 1413 (nasal/sinus disorder); 1414 (throat or larynx disorder); 1415 (ear/vestibular disorder); 1594 (respiratory infection)
+FALSE,FALSE,Metabolic,,TRUE,,Basal Metabolic Rate,,impedance_BASAL_Metabolic_RATEz,Loh,2018,,,EUR,NO,,"451,316","534,046",,,,,,,,,TRUE,23105-0.0,-
+FALSE,FALSE,respiratory,,,,FEV1-FVC Ratio,,lung_FEV1FVCzSMOKE,Loh,2018,,,EUR,NO,,"371,949","446,812",,,,,,,,,TRUE,3062/3063-0.0~3062/3063-0.2,-
+FALSE,FALSE,respiratory,,,,Forced Vital Capacity (FVC),,lung_FVCzSMOKE,Loh,2018,,,EUR,NO,,"371,949","422,877",,,,,,,,,TRUE,3062-0.0~3062-0.2,-
+FALSE,FALSE,Behavioral,TRUE,,,Neuroticism,,mental_NEUROTICISM,Loh,2018,,,EUR,NO,,"372,066","393,412",,,,,,,,,TRUE,20127-0.0,neuroticism score
+FALSE,FALSE,Behavioral,TRUE,,,Morning Person,,other_MORNINGPERSON,Loh,2018,,,EUR,NO,,"410,520","452,897",,,,,,,,,TRUE,1180-0.0,a more morning person vs. a more evening person
+FALSE,FALSE,dermatologic,,,,Hair Color,,pigment_HAIR,Loh,2018,,,EUR,NO,,"452,720","713,772",,,,,,,,,TRUE,1747-0.0,1=black; 2=dark brown; 3=lightbrown; 4=blonde; 5=red
+FALSE,FALSE,dermatologic,,,,Blonde Hair,,pigment_HAIR_blonde,Loh,2018,,,EUR,NO,,"459,324","534,365",,,,,,,,,TRUE,1747-0.0,-
+FALSE,FALSE,dermatologic,,,,Dark Brown Hair,,pigment_HAIR_darkbrown,Loh,2018,,,EUR,NO,,"459,324","531,771",,,,,,,,,TRUE,1747-0.0,-
+FALSE,FALSE,dermatologic,,,,Skin Color,,pigment_SKIN,Loh,2018,,,EUR,NO,,"453,609","548,203",,,,,,,,,TRUE,1717-0.0,very fair/fair vs. other
+FALSE,FALSE,dermatologic,,,,Sunburn Occasion,,pigment_SUNBURN,Loh,2018,,,EUR,NO,,"344,229","350,233",,,,,,,,,TRUE,1737-0.0,any sunburn occasion or not
+FALSE,FALSE,dermatologic,,,,Tanning,,pigment_TANNING,Loh,2018,,,EUR,NO,,"449,984","513,537",,,,,,,,,TRUE,1727-0.0,very/moderately tanned vs. mildly/occasionanlly/never tanned
+FALSE,FALSE,repro,TRUE,,,Age at Menarche,,repro_MENARCHE_AGE,Loh,2018,,,EUR,NO,,"242,278","279,471",,,,,,,,,TRUE,2714-0.0,-
+FALSE,FALSE,repro,TRUE,,,Age at Menopause,,repro_MENOPAUSE_AGE,Loh,2018,,,EUR,NO,,"143,025","156,364",,,,,,,,,TRUE,3581-0.0,-
+FALSE,FALSE,repro,,,,Number Children (Pooled),,repro_NumberChildrenEverBorn_Pooled,Loh,2018,,,EUR,NO,,"456,500","402,204",,,,,,,,,TRUE,2405-0.0 + 2734-0.0,More than 6 children coded as outliers
+FALSE,FALSE,Anthropometric,TRUE,TRUE,,BMI,,body_BMIz,Loh,2018,,,EUR,NO,,"457,824","532,396",,,,,,,,,TRUE,21001-0.0,-
+FALSE,FALSE,Anthropometric,,,,Height,,body_HEIGHTz,Loh,2018,,,EUR,NO,,"458,303","673,879",,,,,,,,,TRUE,50-0.0,-
+FALSE,FALSE,Anthropometric,,TRUE,,Waist-hip Ratio,,body_WHRadjBMIz,Loh,2018,,,EUR,NO,,"458,417","502,773",,,,,,,,,TRUE,48-0.0/49-0.0,-
+FALSE,FALSE,Cardiovascular,,TRUE,,Diastolic Blood Pressure,,bp_DIASTOLICadjMEDz,Loh,2018,,,EUR,NO,,"422,771","490,470",,,,,,,,,TRUE,4079-0.0~4079-0.1,-
+FALSE,FALSE,Cardiovascular,,TRUE,,Systolic Blood Pressure,,bp_SYSTOLICadjMEDz,Loh,2018,,,EUR,NO,,"422,771","469,767",,,,,,,,,TRUE,4080-0.0~4080-0.1,-
+FALSE,FALSE,Cardiovascular,,,,Cardiovascular Diseases,,disease_CARDIOVASCULAR,Loh,2018,,,EUR,NO,,"459,324","477,807",,,,,,,,,TRUE,20002-0.0~20002-0.28,1065 (hypertension); 1066 (heart/cardiac problem); 1067 (peripheral vascular disease); 1068 (venous thromboembolic disease); 1081 (stroke); 1082 (transient ischaemic attack (tia)); 1083 (subdural haemorrhage/haematoma); 1425 (cerebral aneurysm); 1473 (high cholesterol); 1493 (other venous/lymphatic disease)
+FALSE,FALSE,Metabolic,,TRUE,,Type 2 Diabetes,,disease_T2D,Loh,2018,,,EUR,NO,,"459,324","468,298",,,,,,,,,TRUE,2443.0.0 + 2976-0.0,Age of diagnosis > 30

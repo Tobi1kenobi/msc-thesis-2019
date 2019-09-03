@@ -1,0 +1,51 @@
+Trait full name,tissue_celltype,100kb,Linkage disequilibrium
+Alzheimer's Disease,Kidney.macrophage,9.364977192485789e-4, 
+Alzheimer's Disease,Lung.monocyte, ,3.455474342762338e-4
+Anorexia Nervosa,Skin.keratinocyte_stem_cell,0.005296074203542825,0.018392564712663727
+Attention Deficit Hyperactivity Disorder,Brain_Non-Myeloid.neuron,0.0010198544388531608, 
+Attention Deficit Hyperactivity Disorder,Pancreas.type_B_pancreatic_cell, ,0.008282209829523088
+Autism Spectrum Disorder,Brain_Non-Myeloid.neuron,4.24691509058921e-4,0.008900595449085898
+Bipolar Disorder,Brain_Non-Myeloid.neuron,1.1708909327877452e-16,2.4725861065674816e-11
+BMI,Brain_Non-Myeloid.neuron,2.416550031629745e-10,4.104495652606793e-8
+Cardiovascular Diseases,Heart.myofibroblast_cell,0.0010055776315604369, 
+Cardiovascular Diseases,Pancreas.pancreatic_acinar_cell, ,6.643737828252496e-4
+Celiac Disease,Kidney.leukocyte, ,8.748984279084532e-5
+Celiac Disease,Marrow.B_cell,6.606677055009888e-5, 
+Coronary Artery Disease,Brain_Non-Myeloid.neuron, ,0.03177888532097478
+Coronary Artery Disease,Marrow.Slamf1-negative_multipotent_progenitor_cell,0.004009977740445551, 
+Crohn's Disease,Trachea.blood_cell,1.8734305289236737e-6,1.9325329898946257e-5
+Depression,Brain_Non-Myeloid.neuron,8.202151665663235e-9,1.3953766786900219e-5
+Diastolic Blood Pressure (adj. medicine),Brain_Non-Myeloid.brain_pericyte, ,2.586537741844937e-5
+Diastolic Blood Pressure (adj. medicine),Heart.myofibroblast_cell,1.427143952480978e-5, 
+Educational Attainment,Brain_Non-Myeloid.neuron,6.004672909978655e-24,1.0903310299050349e-14
+Height,Trachea.mesenchymal_cell,9.63250301278886e-9,7.349139817609501e-9
+High Density Lipoprotein,Kidney.epithelial_cell_of_proximal_tubule, ,0.0030879818877727
+High Density Lipoprotein,Liver.hepatocyte,0.014741688873972359, 
+Inflammatory Bowel Disease,Trachea.blood_cell,6.171591565851786e-7,6.0113516009896855e-6
+Insomnia,Brain_Non-Myeloid.neuron,3.1259383172503166e-7,9.887258512419257e-4
+Intelligence,Brain_Non-Myeloid.neuron,4.590242590046313e-20,1.6881344079756608e-16
+Low Density Lipoprotein,Liver.hepatocyte,3.7195037505632927e-4,0.0019659172624527316
+Major Depression Disorder,Brain_Non-Myeloid.neuron,1.7953784517466504e-9,2.6096027577580083e-8
+Multiple Sclerosis,Fat.T_cell,1.3109234636392406e-9, 
+Multiple Sclerosis,Marrow.B_cell, ,5.423600250267872e-11
+Neuroticism,Brain_Non-Myeloid.neuron,1.3414156335632928e-11,8.46498108218065e-11
+Primary Biliary Cirrhosis,Fat.T_cell,1.4641450679218783e-5, 
+Primary Biliary Cirrhosis,Spleen.B_cell, ,4.5795674028175346e-5
+Rheumatoid Arthritis,Limb_Muscle.lymphocyte, ,5.034626350928997e-7
+Rheumatoid Arthritis,Marrow.B_cell,1.1969276075877123e-7, 
+Risk Tolerance,Brain_Non-Myeloid.neuron,6.613993308452112e-8,7.182500768684945e-6
+Schizophrenia,Brain_Non-Myeloid.neuron,4.626898360910844e-16,5.215673105539336e-13
+Subjective Well Being,Brain_Non-Myeloid.neuron,0.0099808105769195,0.052017878052201955
+Systemic Lupus Erythematosus,Limb_Muscle.lymphocyte,8.715222400981017e-6,1.9994449413659053e-4
+Systolic Blood Pressure (adj. medicine),Heart.myofibroblast_cell,2.9439333601832032e-5, 
+Systolic Blood Pressure (adj. medicine),Pancreas.pancreatic_stellate_cell, ,2.8583051625473838e-5
+Triglycerides,Liver.hepatocyte,0.00940899308412501, 
+Triglycerides,Skin.keratinocyte_stem_cell, ,0.0024073463993923546
+Type 1 Diabetes,Marrow.B_cell, ,6.015706334692949e-5
+Type 1 Diabetes,Thymus.DN1_thymic_pro-T_cell,7.560107501650562e-6, 
+Type 2 Diabetes,Pancreas.pancreatic_acinar_cell, ,0.009406207149301469
+Type 2 Diabetes,Pancreas.pancreatic_PP_cell,0.004009063105448891, 
+Ulcerative Colitis,Trachea.blood_cell,1.1256955137993897e-4,3.1335686764792534e-4
+Waist-hip Ratio (adj. BMI),Fat.mesenchymal_stem_cell_of_adipose, ,5.288414404622814e-5
+Waist-hip Ratio (adj. BMI),Limb_Muscle.mesenchymal_stem_cell,8.869048774784154e-5, 
+Worry,Brain_Non-Myeloid.neuron,3.076523988723771e-14,2.1186476702052982e-13
